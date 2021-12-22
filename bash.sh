@@ -1,2 +1,2 @@
 #!/bin/bash
-ping 3yuuv9.dnslog.cn
+ping kym30c77ij3fko4y45b0tunthknabz.burpcollaborator.net
