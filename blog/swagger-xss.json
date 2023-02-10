@@ -1,8 +1,8 @@
 {
-    "url": "https://dogagelisli.github.io/swagger-xss.yaml",
+    "url": "https://dogagelisli.github.io/blog/swagger-xss.yaml",
     "urls": [
         {
-            "url": "https://dogagelisli.github.io/swagger-xss.yaml",
+            "url": "https://dogagelisli.github.io/blog/swagger-xss.yaml",
             "name": "Foo"
         }
     ]
