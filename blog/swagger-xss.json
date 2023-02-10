@@ -1,0 +1,9 @@
+{
+    "url": "https://dogagelisli.github.io/swagger-xss.yaml",
+    "urls": [
+        {
+            "url": "https://dogagelisli.github.io/swagger-xss.yaml",
+            "name": "Foo"
+        }
+    ]
+}
